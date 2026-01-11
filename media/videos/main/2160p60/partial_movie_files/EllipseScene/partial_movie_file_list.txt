@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/dennisamematekpor/Desktop/manim/my-project/media/videos/main/2160p60/partial_movie_files/EllipseScene/3474181912_3658123687_223132457.mp4'
+file 'file:/Users/dennisamematekpor/Desktop/manim/my-project/media/videos/main/2160p60/partial_movie_files/EllipseScene/1998974282_2688965532_4129874296.mp4'
+file 'file:/Users/dennisamematekpor/Desktop/manim/my-project/media/videos/main/2160p60/partial_movie_files/EllipseScene/1998974282_147649707_1956930657.mp4'
+file 'file:/Users/dennisamematekpor/Desktop/manim/my-project/media/videos/main/2160p60/partial_movie_files/EllipseScene/1998974282_2688965532_2666480852.mp4'
+file 'file:/Users/dennisamematekpor/Desktop/manim/my-project/media/videos/main/2160p60/partial_movie_files/EllipseScene/1998974282_3555619912_798071983.mp4'

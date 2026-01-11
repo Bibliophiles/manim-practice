@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/dennisamematekpor/Desktop/manim/my-project/media/videos/main/2160p60/partial_movie_files/StarScene/3474181912_3726621513_223132457.mp4'
+file 'file:/Users/dennisamematekpor/Desktop/manim/my-project/media/videos/main/2160p60/partial_movie_files/StarScene/1998974282_2688965532_918868015.mp4'
+file 'file:/Users/dennisamematekpor/Desktop/manim/my-project/media/videos/main/2160p60/partial_movie_files/StarScene/1998974282_1605652761_3003812256.mp4'
+file 'file:/Users/dennisamematekpor/Desktop/manim/my-project/media/videos/main/2160p60/partial_movie_files/StarScene/1998974282_2688965532_3242136750.mp4'
+file 'file:/Users/dennisamematekpor/Desktop/manim/my-project/media/videos/main/2160p60/partial_movie_files/StarScene/1998974282_2602539533_815810305.mp4'
