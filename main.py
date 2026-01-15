@@ -215,3 +215,25 @@ class SquareToCircle(Scene):
         self.play(Create(square))  # animate the creation of the square
         self.play(Transform(square, circle))  # interpolate the square into the circle
         self.play(FadeOut(square))  # fade out animation
+
+class AnimatedSquareToCircle(Scene):
+    def construct(self):
+        circle = Circle()  # create a circle
+        square = Square()  # create a square
+
+        self.play(Create(square))  # show the square on screen
+        self.play(square.animate.rotate(PI / 4))  # rotate the square
+        self.play(Transform(square, circle))  # transform the square into a circle
+        self.play(
+            square.animate.flip(UP)
+        )  # color the circle on screen
+        self.play(FadeOut(square))  # fade out the circle
+
+class DifferentRotations(Scene):
+    def construct(self):
+        left_square = Square(color=BLUE, fill_opacity=0.7).shift(2 * LEFT)
+        right_square = Square(color=GREEN, fill_opacity=0.7).shift(2 * RIGHT)
+        self.play(
+            left_square.animate.rotate(PI), Rotate(right_square, angle=PI), run_time=20
+        )
+        self.wait()
